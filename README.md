@@ -19,6 +19,9 @@ Once the code is compiled, you can deploy the contract by clicking on the "Deplo
 
 Once the contract is deployed, you can interact with it by calling the defined function.
 
+## License
+This project is licensed under the MIT License. See the LICENSE file for details.
+
 ## Authors
 
 Arun Thakur
